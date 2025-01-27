@@ -7,7 +7,7 @@
 }
 
 body {
-    background-color: #f0f0f0;
+    background-color: #A52A2A;
     color: #333;
     line-height: 1.6;
 }
@@ -48,7 +48,7 @@ a {
 
 /* Header Styles */
 header {
-    background: #fff;
+    background: #8B4513;
     box-shadow: 0 2px 5px rgba(0,0,0,0.1);
     position: fixed;
     width: 100%;
